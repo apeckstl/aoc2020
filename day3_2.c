@@ -38,8 +38,8 @@ int main(int argc, char **argv) {
         costs[route] = trees;
     }
 
-    long total = costs[0];
-    for (int i = 1; i < 5; i++) {
+    long total = 1;
+    for (int i = 0; i < 5; i++) {
         total = total * costs[i];
     }
 
