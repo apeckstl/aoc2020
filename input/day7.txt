@@ -1,0 +1,594 @@
+clearmaroon : 1 dulllavender
+wavyturquoise : 4 vibrantmagenta 4 lightviolet 5 brightgold 2 fadedblack
+wavybeige : 3 plaidmagenta 3 wavylime 2 clearturquoise 3 mutedcyan
+mirroredblack : 1 plaidred 3 lightgold 3 wavyviolet
+vibrantfuchsia : 2 darklime 2 mirroredblack 2 lightmagenta 2 drabchartreuse
+vibrantplum : 4 dimcyan 3 palemaroon
+darktan : 3 fadedwhite 3 wavytan 4 paleindigo
+fadedgreen : 2 dimcyan 5 dimmagenta 2 wavymaroon 2 fadedwhite
+clearblack : 4 stripedgreen 2 dimviolet 1 dulltan
+lightolive : 5 stripedindigo 3 dimcoral 1 drabbronze 3 mirroredbeige
+dimblack : 1 fadedtan 5 shinycrimson
+stripedfuchsia : 3 dimcyan
+paleplum : 1 lightlavender 3 dimaqua 1 shinyblue 5 darkorange
+wavycrimson : 2 palecrimson 1 mutedteal 2 drabolive 4 fadedgreen
+mirroredaqua : 4 shinyred 4 lightmaroon 4 lightviolet 5 clearsalmon
+lightorange : 4 dimcrimson 3 dimred 3 mirroredorange
+shinybronze : 3 mirroredviolet 1 dullblue
+vibrantred : 1 drabbeige
+lightviolet : 4 dimcyan
+dottedaqua : 1 dottedcrimson 3 darkred 4 darkfuchsia
+drabteal : 2 mirroredviolet 2 mirroredbeige 2 shinycrimson
+clearcoral : 5 stripedfuchsia 2 shinyindigo
+dimgray : 4 plaidsalmon 4 fadedpurple 4 dullviolet 3 clearcoral
+dottedcyan : 1 shinyturquoise
+dimred : 2 wavymagenta 2 fadedmaroon 5 stripedfuchsia
+dullmagenta : 4 clearteal
+vibrantcoral : 3 paleindigo 5 wavyred 1 clearlime 1 brightred
+stripedsilver : 3 poshchartreuse
+poshcoral : 1 mirroredorange 2 plaidlavender
+dullbrown : 1 lightsalmon
+dottedbronze : 2 clearteal 2 mutedorange 3 darkcyan 2 mutedmaroon
+poshred : 2 poshgray 1 wavyblue
+fadedviolet : 4 lightpurple
+fadedred : 3 drabbrown
+mirroredtomato : 5 mutedmaroon 1 wavylavender
+vibrantbeige : 4 mutedmaroon 2 plaidviolet 1 dimcyan
+shinyturquoise : 2 fadedturquoise 1 brightolive 1 stripedaqua 2 mirroredblue
+plaidblack : 1 shinyteal
+dullfuchsia : 3 poshtan 4 dottedcoral
+wavytomato : 3 lightlavender
+poshsalmon : 5 plaidchartreuse
+stripedgreen : 3 dimcyan 1 darkcyan 3 shinycoral
+dimbrown : 4 dottedtan 2 darkwhite 1 plaidcoral
+wavyplum : 5 mutedcrimson
+stripedturquoise : 2 brightplum 1 mutedsalmon 2 vibrantwhite 3 palecoral
+poshwhite : 5 mirroredplum 1 drablavender 4 drabbrown
+wavypurple : 4 stripedfuchsia 4 shinyindigo 1 wavyviolet
+mutedcoral : 1 vibrantplum 4 plaidsalmon 2 brightindigo
+lightsalmon : 5 wavyolive 2 dullviolet 3 vibrantorange
+lightindigo : 3 mirroredfuchsia
+drabwhite : 1 palegreen 1 shinyteal 4 brightyellow
+vibrantteal : 4 drabturquoise 3 shinycoral 4 poshtan
+mutedyellow : 2 fadedlavender
+palesilver : 4 dottedgreen
+fadedgold : 1 fadedorange 2 drabchartreuse
+mirroredteal : 2 dimtan 2 plaidviolet 4 palebrown
+mutedchartreuse : 4 shinyyellow 1 poshbeige
+clearyellow : 3 fadedmaroon 5 stripedblue 3 dullsilver 5 stripedgold
+vibrantblack : 2 dullgreen 3 vibrantwhite 1 mirroredgold
+stripedindigo : 1 vibrantorange 3 stripedblack 2 paleaqua 3 lightcrimson
+poshlime : 1 clearlime 1 paleaqua 3 plaidwhite
+drabsilver : 3 wavyaqua 2 plaidyellow 1 poshblack 2 plaidbeige
+mirroredchartreuse : 1 drabteal 5 poshmaroon
+fadedbrown : 5 mirroredblue 2 paleaqua 3 dimblack
+vibrantorange : 3 brighttan 5 shinyteal 4 dottedcrimson 2 poshcyan
+drabblue : 4 darkaqua
+plaidbeige : 2 plaidsalmon 4 dullmaroon
+fadedwhite : 1 dimaqua
+brightlime : 3 drabgray 1 stripedlime
+dimmaroon : 1 dottedsalmon
+clearfuchsia : 2 paleplum
+plaidviolet : 3 lightmagenta 1 brightindigo 1 paletan
+drabmaroon : 4 lightgray 1 stripedorange 5 drabsalmon
+lightturquoise : 4 plaidred 5 drabplum
+palemagenta : 3 wavyred 2 mutedorange
+stripedplum : 3 darkviolet 5 stripedaqua 1 poshchartreuse
+mutedsilver : 1 stripedlavender 4 dottedsalmon
+darkolive : 1 mirroredcyan 4 dulltan
+dottedbrown : 4 brightlavender
+brightsalmon : 4 drabblue
+clearorange : 1 poshcyan
+cleartomato : 1 clearred 2 shinyyellow
+wavyblack : 1 mirroredbronze
+vibrantgold : 2 posholive 4 shinyred
+mutedtomato : 5 dottedindigo 2 darkmagenta 1 fadedindigo 1 shinyindigo
+dimtan : 2 drabbrown
+poshpurple : 4 lightviolet 5 drabchartreuse 4 stripedfuchsia
+drabturquoise : 3 brightindigo
+cleargold : 2 wavymagenta 1 brightolive
+dimcrimson : 2 drabgold 1 dulltomato 1 poshindigo
+darklime : 5 wavymagenta 3 mirroredfuchsia 5 dottedchartreuse 1 dullbronze
+poshorange : 2 mirroredaqua 1 shinygreen 5 plaidteal
+dottedchartreuse : 3 wavyviolet 5 palewhite 1 poshviolet 2 darkaqua
+wavygreen : 3 dimolive 4 lightlavender 3 lightolive
+darkbeige : 4 shinyorange
+darkorange : 5 clearorange
+vibrantwhite : 2 dottedpurple 4 darkfuchsia 3 dullbronze
+shinyfuchsia : 2 shinygold
+plaidteal : 4 lightmaroon
+fadedbeige : 4 darkaqua 4 mirroredblack 1 vibrantorange
+wavylime : 4 dullcyan 1 stripedaqua 2 plaidbrown 5 vibrantteal
+wavysilver : 3 drablime
+poshlavender : 1 dottedpurple
+darkcrimson : 3 poshgreen 3 darkgreen
+dullteal : 5 plaidsalmon
+clearbrown : 5 mirroredpurple 5 vibrantorange
+stripedwhite : 3 dullmaroon
+clearviolet : 4 brightred 1 darkorange 3 dullmaroon 3 mutedmaroon
+fadedmagenta : 1 shinyyellow
+dimbeige : 5 stripedsalmon
+dullwhite : 1 shinytan
+poshcrimson : 1 mirroredgreen 4 darkorange
+lightteal : 5 brighttan 5 lightindigo
+wavyorange : 2 palemaroon 2 clearmaroon
+lightlime : 3 dimsilver 1 dimpurple 1 stripedcyan
+mutedgray : 2 lightgreen 4 darkaqua 4 plaidcoral 2 mirroredlime
+brightfuchsia : 1 stripedcrimson 5 fadedpurple 2 plaidviolet 2 vibrantmagenta
+lightchartreuse : 4 brightbronze 3 wavyteal 5 mutedtan 4 lightbronze
+plaidgold : 5 wavyteal 4 clearmagenta
+dullsilver : 5 dimaqua 3 mutedsilver 3 mirroredblue 4 clearorange
+shinymaroon : 3 darkolive 3 mutedturquoise
+fadedturquoise : 1 lightgold 3 palefuchsia 4 shinysilver
+poshindigo : 4 mutedsalmon 2 palegreen
+dottedviolet : 4 shinylime 4 mutedviolet 1 mutedyellow 4 shinyred
+fadedsalmon : 5 mutedlime
+dottedwhite : 5 dottedindigo 3 wavybrown 5 paleaqua
+darkbrown : 5 wavymaroon 3 plaidbeige 5 drabwhite
+shinywhite : 1 dottedbronze 5 dullblack 3 mutedwhite 4 wavymaroon
+brightchartreuse : 1 stripedgreen
+plaidindigo : 4 dullbronze
+brightviolet : 1 shinyyellow
+palemaroon : 3 stripedfuchsia 5 plaidsilver 4 shinyteal
+shinyplum : 4 wavyplum 5 fadedtomato
+wavytan : 3 dimblack 4 poshblack
+plaidlavender : 4 dulltan 2 vibrantbeige
+fadedaqua : 1 dulllavender 4 vibrantorange 4 poshblack
+fadedlavender : 1 shinycoral 1 plaidblack 1 wavybronze 5 darkcoral
+shinyindigo : 4 dottedgreen
+darkbronze : 5 fadedcrimson 3 dimlavender 2 wavywhite
+mutedolive : 5 lightyellow 1 dullchartreuse 4 dimlime
+wavyolive : 3 dottedorange
+vibrantpurple : 3 fadedmaroon 1 clearbronze 5 stripedblack 5 mutedindigo
+stripedcoral : 1 mirroredblack
+dullviolet : 1 dottedpurple
+dimblue : 1 shinyindigo 5 stripedcyan
+drabaqua : 5 clearchartreuse
+stripedbronze : 5 wavylavender 5 shinysilver 2 poshcrimson
+stripedorange : 1 mutedsalmon
+clearwhite : 2 darkcoral 1 plaidsilver 2 drabgold 4 darkred
+dottedtan : 4 mirroredsilver
+stripedcrimson : 2 dimolive 3 dottedpurple
+mutedbronze : 5 dottedgray
+stripedtomato : 4 mirroredaqua
+drabtan : 1 dottedwhite 3 dottedcoral 5 mutedolive
+lightmaroon : 1 dimolive
+darkblue : 1 mirroredmaroon 1 shinysalmon 3 dullcyan
+vibrantmaroon : 5 dullfuchsia
+brightgray : 1 wavyred
+poshbrown : 2 dimbeige 2 shinyteal
+stripedblue : 1 dottedchartreuse 2 clearviolet 1 drabteal
+dimindigo : 3 clearpurple
+stripedteal : 2 dottedteal
+plaidorange : 5 dimblack 2 wavybronze 4 drabbronze 2 shinysalmon
+palesalmon : 2 dottedplum
+vibrantaqua : 2 wavyorange
+fadedcoral : 5 darkfuchsia 3 vibrantorange 4 poshlavender 5 dottedpurple
+brighttomato : 3 plaidplum 5 fadedmaroon 4 brightgreen
+wavygray : 5 palesilver 2 clearcyan 1 dimyellow 1 clearaqua
+darkaqua : 1 palemaroon 1 dottedgray 2 mutedplum 4 mutedorange
+plaidmaroon : 4 mutedplum 1 plaidbeige 4 brightindigo 5 vibrantorange
+lightgray : 1 fadedcrimson
+shinysilver : 4 stripedcyan 4 mirroredfuchsia 2 plaidsalmon
+plaidblue : 2 dimolive 2 poshpurple 1 dottedbronze 2 shinyfuchsia
+shinyolive : 1 poshindigo
+dottedplum : 4 shinycoral 2 drabbeige 3 dimgray
+palebeige : 4 draborange
+mutedwhite : 1 fadedorange 2 mirroredred 3 wavyfuchsia 2 drabblue
+darkgold : 1 mirroredbeige 3 plaidviolet 2 dottedbronze 1 wavybronze
+clearcyan : 1 stripedfuchsia 4 dottedlime 3 drabolive 3 dullblue
+brightblack : 2 poshlavender 3 wavybrown
+brightolive : 4 darkchartreuse 3 plaidsalmon 2 mutedorange 5 paleaqua
+lightsilver : 3 plaidmaroon
+drabindigo : 1 mutedcyan 1 clearmagenta 1 darkbrown
+dullgold : 2 poshbeige 1 vibrantmagenta
+mutedpurple : 2 darksalmon 4 fadedbrown 5 fadedblack
+paleviolet : 2 dullbronze 3 dullaqua
+darkgreen : 3 mirroredwhite 2 stripedcyan 4 mutedchartreuse 2 fadedwhite
+darkindigo : 4 dottedgreen 4 dottedcyan 5 brightbronze 5 fadedbronze
+poshplum : 1 lightcrimson
+darkyellow : 1 fadedpurple 2 mutedolive
+brightcrimson : 2 stripedtan
+dimplum : 2 brightsilver 1 shinybeige 2 poshteal
+dullblue : 1 fadedpurple
+drabviolet : 1 dimwhite 4 vibrantlavender 3 dullmagenta
+mirroredyellow : 3 wavylavender
+clearplum : 3 vibrantcyan 4 plaidchartreuse 5 lightviolet
+dimcoral : 3 mirroredred 1 palemaroon 3 darkchartreuse
+stripedpurple : 1 mirroredtomato 4 dottedgreen
+wavymagenta : 4 mirroredbronze 5 brightfuchsia 3 mirroredviolet 3 drabaqua
+fadedcrimson : 5 poshblack
+dottedmaroon : 1 mutedsalmon 5 stripedsalmon
+darkviolet : 1 plaidblack 3 dimgray 3 brightlavender
+brightlavender : 4 mirroredblue 2 mirroredblack 3 wavyred
+lightwhite : 1 stripedsalmon 3 plaidwhite 5 clearlime 5 dimaqua
+wavylavender : 2 dulltan
+vibrantviolet : 1 drabolive 2 fadedindigo 2 poshblack
+brightsilver : 5 poshblack 3 poshlavender 4 clearlime 2 dimaqua
+mutedcyan : 2 clearred 2 plaidblack
+dullcoral : 5 dottedtan
+dullpurple : 1 dottedlavender
+mutedgold : 4 dimaqua
+wavymaroon : 4 lightaqua 5 brightblack 3 dullblack
+poshviolet : 2 darkchartreuse 3 stripedfuchsia
+dullolive : 1 darkchartreuse 1 plaidtomato 5 mutedcoral 5 lightgold
+shinycoral : 5 dullviolet 3 brighttan 3 mutedorange 3 shinyindigo
+dottedgreen : 4 wavybronze 3 dullviolet 2 stripedbeige
+dulltan : 2 lightmaroon 5 poshtan 4 paletan
+mirroredgold : 4 wavylime
+fadedlime : 5 dottedsalmon 1 plaidbrown 5 poshtan
+plaidtan : 5 drabplum 2 dottedsalmon
+shinycyan : 2 darkcoral 4 poshyellow 5 dottedbrown 5 dullmaroon
+poshaqua : 2 lightbronze 4 lightgreen
+clearcrimson : 1 fadedcrimson 2 poshtan 2 dottedorange
+drabblack : 2 dulltomato 4 mutedred 4 dottedturquoise 1 mirroredred
+vibrantblue : 2 poshcoral 3 wavyteal
+lightgold : 5 poshgray 5 shinybrown 3 darkcoral
+wavyteal : 5 brighttan 5 clearcoral
+clearblue : 1 stripedgreen 3 mirroredgreen
+darktomato : 4 wavyyellow 4 stripedmagenta 1 wavybronze 1 dottedsalmon
+dullblack : 2 poshlavender 5 paleaqua
+mirroredcrimson : 4 dimturquoise 2 mirroredaqua 1 drabtan
+darkchartreuse : 1 dottedgreen
+shinysalmon : 5 lightyellow 4 palefuchsia 5 mutedolive
+lightmagenta : 1 clearteal
+dimorange : 3 darkplum
+stripedblack : 5 shinycoral 2 dullviolet 3 drabolive 1 mirroredred
+dottedgold : 3 paleindigo 2 wavysalmon 1 lightplum
+shinychartreuse : 2 plaidgreen
+lightcyan : 3 poshchartreuse 5 stripedlime 4 wavyred
+poshchartreuse : 2 wavyviolet
+plaidfuchsia : 4 mirroredblue 5 paletan
+mutedblack : 2 stripedlime 2 lightolive 2 plaidtan 2 lightlavender
+stripedaqua : 5 mirroredred
+shinylime : 2 fadedwhite 4 clearsilver 1 wavyfuchsia 5 plaidlavender
+drabmagenta : 5 dimpurple 2 dimsilver 3 clearbrown 4 wavyturquoise
+mirroredsilver : 5 mirroredcyan 5 dullsilver 5 drabviolet
+stripedcyan : 5 brightindigo
+wavyviolet : 2 dimcyan 2 plaidsilver
+paleteal : 1 lightmaroon 1 clearlime 4 darkturquoise
+wavyfuchsia : 3 drabplum 1 dottedwhite
+mutedgreen : 5 brightorange
+lightyellow : 4 shinybronze 4 wavywhite 3 drabturquoise
+plaidpurple : 5 dottedpurple 3 plaidmagenta 1 wavymagenta
+poshbronze : 1 vibrantcoral
+vibrantgreen : 3 plaidorange 1 poshfuchsia 1 fadedbrown
+dimyellow : 4 shinygold 5 mirroredmagenta
+drablavender : 3 mutedcoral 5 drabaqua
+dullchartreuse : 1 vibrantwhite
+plaidbronze : 4 poshindigo
+mirroredbrown : 2 wavyviolet 1 shinycrimson
+clearsilver : 5 dimgreen 2 vibrantgray 3 palewhite
+drabsalmon : 5 shinyteal 2 plaidteal 4 stripedmagenta
+dottedtomato : 4 shinytan 3 dottedbronze 4 clearlime
+lighttan : 4 dottedsilver 1 mirroredviolet 3 dimlime
+shinytan : 4 dottedgray 5 stripedcyan 2 dullviolet 5 palemaroon
+paletomato : 4 brightorange 2 poshchartreuse
+fadedsilver : 4 darkturquoise 4 fadedgray 5 wavybronze
+plaidgray : 1 brightred
+paleolive : 3 poshbeige 4 fadedcoral
+plaidyellow : 5 dimblue 1 drabplum 1 darkcoral 2 fadedpurple
+dimgreen : 1 mutedorange
+wavycyan : 4 clearbrown 5 vibranttan
+clearteal : 4 darkchartreuse
+vibrantbronze : 2 dimcyan 4 shinylime
+mutedsalmon : 4 clearcoral 2 poshlavender 2 paleaqua
+shinygray : 5 drabblue 2 dullchartreuse 5 wavybronze 2 dullsalmon
+mutedblue : 4 fadedblack 3 dimlavender 5 lightviolet 2 mirroredmaroon
+dottedblue : 4 lightbronze
+darkteal : 4 dimlavender 4 shinygray 4 wavysalmon 2 palewhite
+lightpurple : 1 clearsalmon 1 plaidbrown
+lighttomato : 4 stripedlavender 1 mutedbronze
+mutedlime : 4 mirroredolive 1 darkaqua
+palebronze : 1 mirroredbrown
+dottedblack : 4 vibrantmagenta
+shinybrown : 2 brighttan
+fadedcyan : 4 dottedlavender 2 vibrantfuchsia 3 lightgreen
+drabcyan : 5 shinylime
+fadedtan : 5 shinysilver
+dimfuchsia : 5 dimorange 3 mirroredfuchsia
+drabfuchsia : 4 plaidsilver
+stripedbeige : noother
+mutedfuchsia : 1 plaidsilver 5 shinysilver 3 darkorange 5 poshsilver
+brightbeige : 2 lightcrimson 4 poshviolet 5 dottedpurple
+mutedcrimson : 2 wavysalmon 1 cleartomato 1 palebronze
+drabolive : 1 dullviolet 5 dottedcrimson 1 brightgold 4 mutedorange
+dottedsilver : 2 dimindigo 2 cleargray
+paleblue : 3 dottedteal 5 mutedtomato 1 cleartan
+darkfuchsia : 2 darkplum 5 poshtan
+dullplum : 3 palegreen
+fadedindigo : 4 plaidwhite
+poshteal : 5 drabmaroon 4 stripedpurple 4 cleartan
+lightbeige : 1 dullorange
+paleturquoise : 1 brightolive 5 drabtomato 5 fadedturquoise 1 mirroredbrown
+shinyorange : 4 plaidsilver 2 wavybrown 5 clearteal
+palelavender : 4 lightplum
+clearolive : 2 wavyfuchsia 4 dimblack
+fadedblue : 5 palewhite 5 plaidtomato 3 mutedorange 5 clearred
+dottedsalmon : 5 lightgold 1 mutedgreen 3 lightblack 1 mirroredgreen
+vibrantyellow : 1 clearpurple 5 dottedcoral
+lightblue : 4 darktan 1 mirroredaqua 5 clearlime 5 drabcoral
+brightblue : 4 dimmaroon
+mirroredorange : 4 dottedplum 2 dottedyellow 4 dullcyan 2 shinytan
+dottedteal : 3 lightcrimson 1 mirroredblack 3 wavyolive
+wavychartreuse : 5 drabbronze 1 mutedsalmon
+stripedbrown : 1 vibrantviolet 3 dullplum 1 fadedbrown
+plaidaqua : 4 stripedblack 5 mutedwhite
+darkpurple : 3 mirroredorange 5 wavylavender
+mirroredtan : 4 wavyindigo
+poshsilver : 3 stripedmagenta 1 darkchartreuse 5 dottedwhite 4 wavytan
+fadedyellow : 4 plaidmagenta
+brightbrown : 4 drabtomato
+mirroredturquoise : 5 plaidpurple 1 mirroredred 4 stripedgreen
+plaidgreen : 2 drabchartreuse
+dottedolive : 2 dullwhite
+shinyteal : noother
+shinyred : 5 stripedcyan
+dottedorange : 2 clearteal 5 stripedcyan
+shinyviolet : 5 poshviolet
+brightindigo : noother
+plaidwhite : 2 brightindigo
+drabplum : noother
+cleargray : 1 mirroredgold 1 darkbeige 2 drabsilver 4 stripedgreen
+dimmagenta : 1 poshcyan
+dullcyan : 5 palefuchsia 4 plaidfuchsia 4 clearorange 1 darkgold
+lightbrown : 1 dullviolet
+dottedfuchsia : 3 stripedcrimson 3 dimlime
+darkmagenta : 5 darkplum 3 mirroredfuchsia
+dulltomato : 2 shinyorange 2 darkfuchsia
+dullcrimson : 2 mutedturquoise
+mirroredsalmon : 4 mirroredbronze 1 clearwhite 3 darkred 3 dimolive
+shinyaqua : 3 shinygreen 1 lightlavender 3 drabsalmon 1 darktan
+brightplum : 4 dulllavender 4 mutedmaroon 2 brightcoral 4 dullmaroon
+darkred : 1 brightolive
+palecrimson : 3 dottedgreen 2 plaidtomato
+dimbronze : 4 plaidcyan
+vibrantindigo : 1 darkblue 5 dottedorange
+mirroredlavender : 4 darkcyan 1 shinygreen 1 mirroredgold 1 shinysilver
+brightmagenta : 2 fadedindigo 5 paleaqua 4 darkmagenta
+draborange : 3 dullturquoise 1 lightmagenta
+vibrantsalmon : 3 stripedblue 3 vibrantteal
+drabbeige : 1 drabplum 2 wavyviolet 3 mirroredbrown
+mutedbeige : 2 wavytan 5 wavyred
+brightaqua : 1 darkfuchsia 5 dullblack 2 plaidred 2 brightblue
+shinytomato : 4 fadedbrown
+dimlavender : 2 dottedpurple
+poshfuchsia : 5 plaidcrimson 3 darkorange 1 vibrantred
+mutedbrown : 5 poshcyan 4 wavytan
+lightcrimson : 1 shinyred
+wavycoral : 5 mutedmagenta 1 dullsilver 4 fadedolive
+mirroredbronze : 1 brightlavender 5 mutedindigo 1 wavyolive
+wavysalmon : 4 dottedbronze 3 drabplum
+vibrantbrown : 1 poshcoral 2 poshgreen 3 fadedolive
+dimcyan : noother
+dulllavender : 5 stripedcyan 5 dimcyan
+paleorange : 3 vibranttan
+drabchartreuse : 4 wavyteal 3 plaidblack 1 dimblue
+drabgray : 1 palechartreuse
+dimlime : 3 clearteal 4 poshchartreuse 3 brightblack 5 mutedred
+plaidcyan : 3 wavypurple
+dottedlime : 5 brightolive 3 vibrantviolet 4 brighttomato 3 darkmagenta
+darklavender : 5 lightsilver 3 stripedbrown
+dottedcoral : 2 dottedgreen 2 wavybrown
+brightorange : 2 dullblack 5 poshpurple 2 mutedindigo 5 shinygold
+wavywhite : 3 plaidsalmon 1 mutedplum 3 plaidindigo 3 dullaqua
+darkwhite : 5 mirroredteal 3 darklime
+vibrantmagenta : 2 mirroredfuchsia 1 clearlime
+lightplum : 4 dullaqua
+paleindigo : 1 dottedcoral 5 drabbeige 3 dimgreen
+dullyellow : 3 dottedsilver
+dimwhite : 3 clearchartreuse 1 cleartomato
+brightmaroon : 2 darkbronze
+dottedcrimson : 2 plaidsilver 5 drabplum
+dullturquoise : 3 fadedcoral
+mirroredmaroon : 5 shinyfuchsia
+poshbeige : 4 plaidaqua 3 mutedred
+shinylavender : 5 stripedbrown 4 brightred
+drabpurple : 1 poshplum 3 palesalmon 5 stripedcoral 1 mutedbronze
+poshturquoise : 3 drabtan
+fadedpurple : 4 stripedfuchsia 3 mirroredfuchsia 2 dottedgray 4 mutedcoral
+fadedbronze : 4 stripedbronze
+mirroredlime : 1 mutedlavender
+poshgold : 1 mirroredpurple
+poshmaroon : 1 stripedbeige 1 wavyred 1 wavytan
+clearbeige : 5 poshturquoise 4 drabtan 2 stripedolive 3 plaidolive
+dimpurple : 1 stripedlime
+vibrantolive : 2 mutedyellow 2 plaidaqua 3 darksilver 2 palegreen
+brighttan : 5 fadedpurple 3 dottedgray
+vibranttomato : 2 palesalmon 2 drabteal
+plaidred : 4 vibrantwhite 1 poshtan
+mirroredmagenta : 3 wavyblue 1 mutedtomato 1 stripedsalmon 1 shinyred
+drabtomato : 2 wavyviolet 5 mutedaqua
+shinymagenta : 4 mirroredbrown
+dullred : 4 plaidgreen
+dimaqua : 3 mirroredblue 2 brightindigo 4 shinycoral
+fadedgray : 4 lightlavender 5 clearlime 5 vibrantviolet
+dottedlavender : 4 fadedcrimson
+dullsalmon : 2 lightplum
+poshyellow : 2 lightyellow 2 dimcyan 1 clearcrimson 4 poshlavender
+poshtomato : 4 shinylime 4 brightturquoise 5 shinytan 4 brightyellow
+plaidlime : 3 shinysalmon 3 plaidcrimson
+dimsilver : 2 plaidblack 3 dullbronze 3 shinyred
+dottedmagenta : 3 dottedcoral 3 stripedblue 3 vibranttan 3 plaidbrown
+mutedteal : 3 palemaroon
+vibrantsilver : 3 drablime 1 lightaqua
+clearlime : 5 darkplum 3 dottedgray
+dullaqua : 3 poshblack
+darkplum : noother
+drabyellow : 4 mutedbeige 3 clearbrown 5 lightcrimson 5 wavylavender
+mirroredfuchsia : noother
+poshgreen : 5 shinybrown
+stripedviolet : 1 shinylime 4 palemagenta
+brightturquoise : 1 mirroredlime 1 cleargold 1 mutedplum
+dottedbeige : 5 plaidaqua 5 mutedtomato 5 stripedorange
+palered : 3 stripedwhite 2 drabolive 2 drabblack 4 palechartreuse
+plaidcoral : 1 darkbeige 2 wavybeige 5 vibrantcrimson
+mutedindigo : 1 plaidbrown 5 stripedcrimson 5 dottedgray 2 clearmaroon
+drabcrimson : 1 dimolive 4 drabmaroon 3 shinyindigo
+dottedturquoise : 1 lightbronze
+vibrantlime : 2 dimlime 5 poshgreen
+plaidolive : 4 clearblack
+palecoral : 3 fadedcoral 1 poshblack 5 fadedpurple 4 plaidwhite
+palecyan : 1 lightcrimson 1 mirroredblue 4 fadedaqua
+plaidsalmon : noother
+dimteal : 1 dullwhite
+brightgreen : 3 poshbeige
+stripedred : 2 dottedpurple
+plaidsilver : noother
+palefuchsia : 4 mirroredblack 5 fadedpurple 4 plaidviolet 3 mutedmaroon
+palelime : 2 mirroredbronze 3 clearmagenta 4 clearsilver 5 plaidindigo
+wavybrown : 3 shinycoral 2 plaidsilver
+darkturquoise : 5 drabteal 5 drabgray
+drabcoral : 4 shinycoral 1 dullturquoise 1 dottedgreen 1 lightmaroon
+poshblue : 4 lightblue 2 brightblack
+dulllime : 3 fadedolive 1 plaidteal 1 shinylime
+mirroredolive : 1 mirroredbeige 3 fadedpurple
+dimsalmon : 5 paleyellow 5 plaidteal 1 poshgray
+clearchartreuse : 2 mirroredfuchsia 5 vibrantmagenta 1 darkorange
+vibrantlavender : 5 brightfuchsia
+posholive : 3 darkolive 2 dottedblack 2 clearwhite 5 dimorange
+paletan : 5 dullviolet 5 vibrantwhite 2 brightindigo 4 vibrantorange
+dimturquoise : 3 fadedpurple
+fadedfuchsia : 2 clearteal
+poshgray : 4 dottedpurple 4 dottedgreen 5 shinyyellow 1 shinytan
+poshblack : 4 plaidsilver 4 vibrantmagenta 2 plaidwhite 4 stripedbeige
+vibrantgray : 3 lightmagenta
+dottedpurple : 1 plaidsalmon 2 brightindigo
+mirroredred : 3 brighttan
+mirroredviolet : 5 darkcyan
+fadedplum : 4 lightviolet 3 poshbrown 5 dullsilver 5 wavyblue
+stripedyellow : 3 clearbronze
+stripedlime : 2 darkaqua 1 clearlime 2 drabchartreuse 3 clearteal
+cleargreen : 4 drabmagenta 3 dimcoral
+brightcoral : 4 plaidtomato
+lightblack : 4 fadedcoral
+plaidplum : 1 poshviolet
+palegold : 3 clearsalmon
+dimtomato : 3 dimindigo 3 dottedturquoise
+brightteal : 4 palecyan
+stripedgold : 1 fadedturquoise 1 poshindigo 1 brightblack
+palechartreuse : 1 vibrantmagenta 5 dullfuchsia 2 brightgold 4 mirroredblue
+poshtan : 5 lightviolet 4 drabplum
+palewhite : 3 dimblue 4 paleaqua 2 vibrantplum
+darkcyan : 2 shinyteal 3 fadedpurple 4 shinyindigo 1 stripedcyan
+mutedturquoise : 4 wavywhite 2 dimblack
+dullorange : 5 brightteal 3 stripedteal
+lightaqua : 1 dottedgreen 4 fadedlavender 3 stripedgreen
+cleartan : 3 dimwhite
+dullmaroon : 3 shinygold 2 lightgold 1 dottedorange 1 clearlime
+mutedtan : 5 dottedbronze 2 shinycrimson
+dottedindigo : 2 drabbeige 5 dottedpurple 5 mutedmaroon
+stripedtan : 4 mutedchartreuse
+mirroredpurple : 3 mutedindigo
+fadedtomato : 4 dullgold 1 paletan
+mirroredbeige : 1 darkchartreuse 3 dimolive
+palebrown : 4 dullblue 2 plaidtomato
+lightgreen : 3 wavypurple 2 fadedpurple 4 drabplum 3 shinyyellow
+darkcoral : 2 vibrantplum 4 plaidsalmon
+dullbronze : 1 dimcyan 2 poshlavender 3 mirroredbeige
+fadedorange : 2 fadedcrimson
+mirroredwhite : 4 wavycrimson 4 palecoral 3 poshsilver
+darkmaroon : 2 poshteal 4 shinyplum
+drabred : 5 clearred 2 poshmagenta 2 vibrantolive 5 mirroredwhite
+shinygreen : 2 mirroredbeige 2 wavytomato 5 stripedlavender 1 dimsilver
+wavyindigo : 4 dottedwhite
+dimviolet : 5 fadedwhite 3 clearsalmon
+stripedchartreuse : 3 dimbrown 1 mirroredgray 3 clearcoral 2 dullaqua
+stripedgray : 2 vibrantolive 4 poshbeige 3 dullbeige
+plaidtomato : 3 clearlime
+darkblack : 4 palecrimson
+drabbronze : 5 clearturquoise 4 wavyolive 3 clearpurple 4 fadedmaroon
+dullgreen : 5 palefuchsia 3 shinycoral 3 wavymagenta
+fadedchartreuse : 2 plaidbeige 3 draborange
+lightred : 5 stripedlavender
+mutedlavender : 2 darksalmon 1 fadedindigo 4 clearsalmon
+brightwhite : 1 drabwhite 3 vibrantpurple
+plaidmagenta : 5 poshcoral 4 plaidindigo 1 plaidviolet 1 brightbeige
+fadedolive : 2 wavyaqua
+poshcyan : 5 shinycoral 5 brightindigo 2 plaidsilver
+clearred : 5 dullbronze 4 shinycoral 2 dottedorange 1 vibrantmagenta
+brightbronze : 4 dullblue
+stripedolive : 3 dimlime 3 paletan 2 wavygold 5 mirroredbrown
+mirroredgreen : 3 dullmaroon 5 fadedtan 5 poshtan
+mutedaqua : 1 brightcoral
+dimgold : 2 dottedsalmon
+paleyellow : 2 wavycoral
+brightyellow : 3 stripedlavender 4 vibrantwhite 3 vibrantplum 1 clearpurple
+stripedmagenta : 1 plaidbrown 1 dullindigo
+stripedmaroon : 2 palechartreuse 4 dimblack 2 mutedpurple
+brightcyan : 4 mutedturquoise
+poshmagenta : 3 lightgray 2 mirroredblue 3 mirroredsilver 2 dottedpurple
+stripedlavender : 4 brightchartreuse 3 mutedplum
+drablime : 4 poshbeige 2 dimolive 4 wavyfuchsia 2 shinyaqua
+mirroredindigo : 4 darkolive 3 mirroredviolet 4 mirroredlime
+plaidcrimson : 5 stripedindigo 2 darkplum 5 dottedgreen 3 clearsalmon
+brightred : 1 palemaroon
+dottedyellow : 2 brightchartreuse 1 poshblack 4 brightindigo 1 drabblue
+drabgreen : 5 lightolive 4 vibrantcoral 3 lightmagenta
+shinycrimson : 3 brightolive 1 dottedpurple 2 poshcyan 3 dimgray
+paleblack : 3 dulltan 5 plaidbeige 2 dullviolet
+clearpurple : 5 mutedorange 3 dimgray 5 dottedorange
+palegray : 5 plaidolive 3 drabcoral 1 brightcyan
+lightlavender : 5 vibrantwhite 1 drabplum 5 fadedindigo 4 shinygold
+dullbeige : 2 dullblack
+clearmagenta : 5 poshmaroon
+mutedorange : 2 dullviolet 4 stripedbeige 1 plaidsalmon 3 mirroredfuchsia
+wavygold : 2 drabturquoise
+palepurple : 1 vibrantcrimson
+darksilver : 1 dottedorange 3 plaidbeige 5 fadedwhite
+clearlavender : 2 paleviolet 5 clearyellow 5 stripedsalmon
+stripedsalmon : 4 dimcrimson
+shinygold : 3 vibrantorange 3 plaidsilver
+lightcoral : 4 fadedtomato 1 dimlime 1 dottedcoral 4 dimchartreuse
+mirroredcoral : 2 poshpurple 1 dullfuchsia 4 fadedmaroon 2 plaidindigo
+clearaqua : 5 dimgray 1 dullcyan 2 dimblack
+clearsalmon : 2 poshgray 5 palemaroon
+mutedplum : 2 shinyyellow 1 plaidsalmon 3 shinyindigo 4 clearlime
+brightgold : 1 dullblue 2 brightindigo 4 mutedred 4 clearmaroon
+drabbrown : 2 darkchartreuse
+plaidturquoise : 4 stripedred 2 fadedmagenta 1 lightmagenta
+vibrantturquoise : 2 stripedyellow 3 plaidfuchsia 2 shinycoral 1 clearyellow
+dullindigo : 1 drabplum 4 darkfuchsia 3 dottedgray
+wavyaqua : 4 dulltan 1 shinytan 1 stripedbeige
+mirroredplum : 4 darkfuchsia 5 mutedwhite
+shinyblack : 2 lightaqua
+mirroredblue : 2 dimgreen 4 vibrantwhite 1 fadedorange
+plaidchartreuse : 1 cleartomato 4 shinyorange
+dottedred : 3 plaidbeige
+wavyred : 1 stripedfuchsia 2 plaidbrown 1 shinyfuchsia 2 dottedcrimson
+mutedviolet : 4 poshblack 5 shinyturquoise 5 shinyyellow
+dottedgray : 5 dullviolet 5 darkplum 2 brightindigo 2 wavybronze
+fadedmaroon : 4 paleaqua 2 cleartomato
+darkgray : 1 lightorange 1 poshbrown
+dullgray : 5 fadedviolet 1 dottedturquoise
+mutedmaroon : 1 shinytan 5 lightmaroon 2 dottedgreen
+clearturquoise : 2 clearsalmon 1 darkcyan 1 stripedgreen
+wavybronze : noother
+mutedmagenta : 5 stripedcoral 4 dimlime 1 poshred 1 plaidblue
+mirroredcyan : 2 poshviolet 5 brightolive 3 dottedgreen 5 drabgold
+wavyblue : 1 darkcoral 1 dimolive 4 dimblack 5 drabchartreuse
+vibrantcyan : 3 poshmaroon 5 dimbeige 3 darkblue
+dimchartreuse : 4 dulltan 5 drabmagenta
+darksalmon : 5 brightindigo 4 shinycrimson 3 dottedpurple 2 darkcoral
+plaidbrown : 2 dimolive
+wavyyellow : 2 drabplum 3 mutedorange 5 palecoral
+vibranttan : 5 brightbronze 2 shinylime
+shinybeige : 2 dullgreen
+drabgold : 5 dottedcrimson
+fadedteal : 5 dulltan 3 dottedbronze 4 brightindigo 5 poshred
+mirroredgray : 4 mutedbronze
+lightfuchsia : 5 palebeige 1 vibrantlavender
+clearindigo : 1 dottedfuchsia 3 dullaqua 1 darkchartreuse
+brightpurple : 4 wavyorange 4 mirroredviolet 4 lightturquoise
+palegreen : 1 lightaqua 3 brightyellow
+dimolive : 5 dottedgreen 5 dullviolet
+lightbronze : 1 darkaqua
+vibrantchartreuse : 3 darksalmon
+paleaqua : 5 dottedpurple 4 darkplum
+fadedblack : 5 mirroredfuchsia 5 stripedgreen
+shinyblue : 1 fadedgray 5 dottedindigo 4 fadedmagenta
+mutedred : 1 lightviolet 4 dimcyan
+shinyyellow : 2 lightmaroon 3 wavyviolet
+clearbronze : 1 brightindigo 1 poshlavender 2 dullsalmon 4 mutedbronze
+vibrantcrimson : 5 drabblue
+shinypurple : 1 shinyteal

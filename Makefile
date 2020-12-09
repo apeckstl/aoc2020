@@ -2,7 +2,7 @@ CC = gcc
 DAY = 1
 
 part1: day$(DAY).c
-	$(CC) day$(DAY).c -o day$(DAY).o -lm
+	$(CC) day$(DAY).c -o day$(DAY).o -lm -g
 
 part2: day$(DAY)_2.c
 	$(CC) day$(DAY)_2.c -o day$(DAY)_2.o -lm
