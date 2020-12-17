@@ -43,15 +43,7 @@ int main(int argc, char **argv) {
 			break;
 		}
 	}
-	/*
-	for (int i = 0; i < 25; i++) {
-		for (int j = 0; j < 25; j++) {
-			printf("%d ", preamble[i][j]);
-		}
-		printf("\n");
-	}
-	*/
-
+	
 	fclose(fp);
 
 	printf("Answer = %d\n", answer);
@@ -66,17 +58,6 @@ void calculateSum(int idx, int new, int **pre) {
 	// the idx element and add the new
 	//
 	int (*preamble)[25] = pre;
-
-	/* printf debug
-	for (int i = 0; i < 25; i++) {
-		for (int j = 0; j < 25; j++) {
-			printf("%d ", preamble[i][j]);
-		}
-		printf("\n");
-	}
-	*/
-
-	printf("idx: %d new: %d\n", idx, new);
 	int old = preamble[idx][idx];
 	
 	// replace in idx row first
