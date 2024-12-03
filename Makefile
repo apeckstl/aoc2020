@@ -2,10 +2,10 @@ CC = gcc
 DAY = 1
 
 part1: day$(DAY).c
-	$(CC) day$(DAY).c cubetable.c -o day$(DAY).o -lm -g
+	$(CC) day$(DAY).c stringtable.c -o day$(DAY).o -lm -g
 
 part2: day$(DAY)_2.c
-	$(CC) day$(DAY)_2.c cubetable.c -o day$(DAY)_2.o -lm
+	$(CC) day$(DAY)_2.c stringtable.c -o day$(DAY)_2.o -lm
 
 run-part1:
 	./day$(DAY).o input/day$(DAY).txt $(shell wc -l input/day$(DAY).txt)
