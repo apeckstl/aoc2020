@@ -1,1 +1,3 @@
 *.o
+.vscode/settings.json
+input/day??.txt
